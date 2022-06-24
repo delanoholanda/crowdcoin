@@ -1,0 +1,53 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "content-hash": "^2.5.2",
+    "date-fns": "^2.17.0",
+    "eth-ens-namehash": "^2.0.8",
+    "ethereumjs-common": "^1.5.2",
+    "ethjs-util": "^0.1.6",
+    "eventemitter3": "^4.0.7",
+    "fs-extra": "^7.0.1",
+    "fs.extra": "^1.3.2",
+    "ganache-cli": "^6.12.2",
+    "got": "^11.8.1",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "node-gyp": "^7.1.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-moment": "^1.1.1",
+    "rebuild": "^0.1.2",
+    "scrypt-js": "^3.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "solc": "^0.4.26",
+    "truffle-hdwallet-provider": "0.0.3",
+    "typedarray-to-buffer": "^4.0.0",
+    "underscore": "^1.12.0",
+    "web3": "^1.7.3",
+    "web3-core-helpers": "^1.7.3",
+    "web3-core-method": "^1.7.3",
+    "web3-eth-abi": "^1.7.3",
+    "web3-providers-http": "^1.7.3",
+    "web3-providers-ipc": "^1.7.3",
+    "yaeti": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.3"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
