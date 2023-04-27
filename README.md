@@ -1,6 +1,6 @@
 # kickstart
 
-1- precisei instalar o atom e instalar os plugins para linguagem solidity: 
+1- instalar o atom e instalar os plugins para linguagem solidity: 
 https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:solidity
 -solidity-comments
 -language-solidity
